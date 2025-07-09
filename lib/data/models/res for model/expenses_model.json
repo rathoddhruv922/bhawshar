@@ -1,0 +1,50 @@
+{
+    "message": "Expense Found",
+    "items": [
+        {
+            "id": 469,
+            "user_id": 5,
+            "user": "Pankaj",
+            "type": "Miscellaneous",
+            "sub_type": "Xerox",
+            "note": "Mobile Test",
+            "expense_date": "2023-12-19",
+            "amount": 1.4,
+            "status": "Pending",
+            "receipts": [
+                {
+                    "id": 197,
+                    "url": "https://bhawsaruat.tpots.in/storage/2023/12/expense/Miscellaneous/Xerox/469_17029686540.png"
+                }
+            ],
+            "places_worked": "surat",
+            "from": 10430,
+            "to": 10431,
+            "from_area": {
+                "id": 10430,
+                "name": "Beda Raypura"
+            },
+            "to_area": {
+                "id": 10431,
+                "name": "Bedchit"
+            },
+            "distance": 2.3,
+            "created_by": 5,
+            "lat": "56.3456",
+            "lng": "34.2345",
+            "recent_comment": "Expense created and applied by Pankaj"
+        }
+    ],
+    "meta": {
+        "totalItems": 5,
+        "perPage": 1,
+        "currentPage": 1,
+        "firstPage": 1,
+        "lastPage": 5
+    },
+    "success": true,
+    "status": "success",
+    "errors": false,
+    "open_feedback": 0,
+    "pending_expenses": 2
+}

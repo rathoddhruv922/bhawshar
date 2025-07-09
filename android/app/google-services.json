@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14035315969",
+    "project_id": "bhavsar-app-12b8f",
+    "storage_bucket": "bhavsar-app-12b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14035315969:android:fb7a4a397bc14f3e7eff00",
+        "android_client_info": {
+          "package_name": "com.bhawsar.chemical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7GbzPOJbiIcjC5MuTJRAZfg30vjlilo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14035315969:android:377b36e716ed39da7eff00",
+        "android_client_info": {
+          "package_name": "com.chemical.bhawsar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7GbzPOJbiIcjC5MuTJRAZfg30vjlilo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

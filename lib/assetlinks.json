@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.app.bhawsarChemical",
+            "sha256_cert_fingerprints": [
+                "EC:35:54:14:FD:9A:01:CC:6E:14:7F:B7:82:69:FA:F7:3A:06:47:C7:80:5D:88:73:E6:0A:43:31:AB:2A:1C:88"
+            ]
+        }
+    }
+]
