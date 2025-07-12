@@ -2,9 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 
-//const String baseUrl = 'https://bhavsarapi.tp-team.com/api/v1';
-//const String baseUrl = 'https://bhawsaruat.tpots.in/api/v1';
-const String baseUrl = 'https://api.bhawsarayurveda.in/api/v1';
+const String baseUrl = '';
 //! When change baseUrl don't forget to change in Androidmanifest file also.
 const String appName = 'Bhawsar Chemicals Sales';
 String docLink = baseUrl.contains('bhawsarayurved') ? 'bhawmedia' : baseUrl.split('/').elementAt(2);
